@@ -4,9 +4,9 @@ The Challenge
 Build a model to suggest the price of product on Mercari, a company that sells products online. The model is required to train (including all the preprocessing, feature extraction and model training steps) and inference in the most effective way possible. Data include unstructured text (product title & description) and structured ones, e.g., product category and shipping flag etc.
 
 ##  Dataset Features
-ID: the id of the listing
-Name: the title of the listing
-Item Condition: the condition of the items provided by the seller
+ - ID: the id of the listing
+ - Name: the title of the listing
+ - Item Condition: the condition of the items provided by the seller
 Category Name: category of the listing
 Brand Name: brand of the listing
 Shipping: whether or not shipping cost was provided
