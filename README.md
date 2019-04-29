@@ -14,3 +14,8 @@ Build a model to suggest the price of product on Mercari, a company that sells p
  - Price: the price that the item was sold for. This is the target variable that you will predict. The unit is USD.
  
  ### Keywords
+- Pricing recommendations 
+- Regression- 
+- NLP- 
+- BagOfWords
+- Keras etc.
