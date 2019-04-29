@@ -19,3 +19,5 @@ Build a model to suggest the price of product on Mercari, a company that sells p
 - NLP
 - BagOfWords
 - Keras etc.
+
+I could not upload the datasets to github as the file sizes are large and data for this competitoin can be found @https://www.kaggle.com/c/mercari-price-suggestion-challenge/data. I have used Keras regressor to accomplish the task and have uploaded the code here.
