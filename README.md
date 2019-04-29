@@ -15,7 +15,7 @@ Build a model to suggest the price of product on Mercari, a company that sells p
  
  ### Keywords
 - Pricing recommendations 
-- Regression- 
-- NLP- 
+- Regression
+- NLP
 - BagOfWords
 - Keras etc.
