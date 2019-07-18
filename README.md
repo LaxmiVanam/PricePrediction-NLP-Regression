@@ -1,7 +1,6 @@
 # PricePrediction-Regression
 
-The Challenge
-Build a model to suggest the price of product on Mercari, a company that sells products online. The model is required to train (including all the preprocessing, feature extraction and model training steps) and inference in the most effective way possible. Data include unstructured text (product title & description) and structured ones, e.g., product category and shipping flag etc.
+The challenge is to build a model to suggest the price of product on Mercari, a company that sells products online. The model is required to train (including all the preprocessing, feature extraction and model training steps) and inference in the most effective way possible. Data include unstructured text (product title & description) and structured ones, e.g., product category and shipping flag etc.
 
 ## The following are the dataset features provided in the competition 
  - ID: the id of the listing
