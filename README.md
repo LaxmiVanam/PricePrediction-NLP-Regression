@@ -19,4 +19,11 @@ The challenge is to build a model to suggest the price of product on Mercari, a 
 - BagOfWords
 - Keras etc.
 
+Possible enchancements:
+- Do more feature engineering to come up with even more features
+- Try more modeling techniques and tune them for better metric using hyperparamater tuning.
+- I could use decomposition techniques in order to reduce the dimensions. 
+- Test for overfitting and apply Dropout of the neurons to reduce overfitting/ variance.
+
+
 I could not upload the datasets to github as the file sizes are large and data for this competitoin can be found @https://www.kaggle.com/c/mercari-price-suggestion-challenge/data. I have used Keras regressor to accomplish the task and have uploaded the code here.
