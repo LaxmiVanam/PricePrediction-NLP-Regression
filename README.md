@@ -16,7 +16,7 @@ The challenge is to build a model to suggest the price of product on Mercari, a 
 - Pricing recommendations 
 - Regression
 - NLP
-- CSR matrices
+- CSR matrices, SciPy
 - BagOfWords
 - Keras etc.
 
